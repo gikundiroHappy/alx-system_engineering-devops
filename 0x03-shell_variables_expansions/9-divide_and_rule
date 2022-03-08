@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((OWER/DIVIDE))
+echo $((POWER/DIVIDE))
